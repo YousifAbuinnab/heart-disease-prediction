@@ -112,7 +112,7 @@ The project generates several visualizations to understand the data and model pe
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/YousifAbuinnab/heart-disease-prediction.git
 cd ML-SUPERVISED-project
 ```
 
